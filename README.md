@@ -21,7 +21,7 @@ This python code was tested by unit tests to verify the correctness of the solut
 
 ## About examples
 
-5<-(this is # of vertices) 7 <- this is # of edges  
+5<-(this is number of vertices) 7 <- this is number of edges  
 
 1 2 7 <-(these are in the form: from vertex, to vertex, weight)  
 1 3 10  
