@@ -57,5 +57,5 @@ The examples namely 'inSample_' are the normal inputs and the ones namely 'test_
 ![Screenshot 2022-10-24 084804](https://user-images.githubusercontent.com/72028345/197453787-b7b1221d-e9d1-4e4c-9cf5-bb0ebb0ad1b6.png)
 
 # Contact
-If you have any questions, do not hesitate to contact me by `khojasteh@znu.ac.ir` or `khojasteh.hb@gmail.com`, I will be happy to assist.
+If you have any questions, do not hesitate to contact me by `khojasteh.hb@gmail.com`, I will be happy to assist.
 
